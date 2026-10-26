@@ -1,0 +1,6 @@
+{
+  "name": "AetherOps AI — Autonomous Service SaaS",
+  "description": "Scalable AI-powered SaaS platform for service enterprises featuring workflow automation, intelligent dispatch, semantic knowledge retrieval, and mobile field companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
